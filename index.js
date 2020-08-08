@@ -21,7 +21,7 @@ import {
 import { ProgressBar } from '@react-native-community/progress-bar-android'
 import { ProgressView } from '@react-native-community/progress-view'
 
-import RNFetchBlob from 'rn-fetch-blob';
+import RNFetchBlob from 'react-native-fetch-blob';
 
 const SHA1 = require('crypto-js/sha1');
 import PdfView from './PdfView';
